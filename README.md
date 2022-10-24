@@ -1,6 +1,7 @@
 # CS-305
 
 1.	Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
 A consulting company called Artemis Financial creates unique financial strategies for its clients. They engaged us to create their open-source web application and    make it secure enough to handle the delicate financial and personal information contained therein.
 
 2.	What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
